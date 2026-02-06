@@ -1,0 +1,7 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://banghak.8222quick.com/sitemap.xml
+
+
+
